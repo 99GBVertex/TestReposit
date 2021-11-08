@@ -10,4 +10,5 @@ void Foo::PrintFoo()
      std::cout << "Im Brunch O2" << std::endl;
 
      std::cout << "Im Branch O3" << std::endl;
+     std::cout << "Im Branch O3-2" << std::endl;
 }
