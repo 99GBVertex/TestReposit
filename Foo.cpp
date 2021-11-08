@@ -8,4 +8,6 @@ void Foo::PrintFoo()
      std::cout << "Foo" << std::endl;
 
      std::cout << "Im Brunch O2" << std::endl;
+
+     std::cout << "Im Branch O3" << std::endl;
 }
